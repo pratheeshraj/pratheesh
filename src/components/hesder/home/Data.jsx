@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from "../../../assets/John-Cv.pdf"
+import CV from "../../../assets/pratheesh-cv.pdf"
 const Data = () => {
   return (
     <div className='home__data'>
