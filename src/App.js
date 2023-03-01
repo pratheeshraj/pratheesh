@@ -1,24 +1,26 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
-
+import Header from './components/hesder/Header';
+import Home from './components/hesder/home/Home';
+import Skills from './components/hesder/skills/Skills';
+import Contact from './components/hesder/contact/Contact';
+import Footer from './components/hesder/footer/Footer';
+import ScrollUp from './components/hesder/scrollup/ScrollUp';
+import Works from './components/hesder/works/Works';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+   
+ <Header/>
+<main className='main'>
+  <Home/>
+  <Skills/>
+  <Works/>
+  <Contact/>
+  <Footer/>
+  <ScrollUp/>
+</main>
+   </>
   );
 }
 
