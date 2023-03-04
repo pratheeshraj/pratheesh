@@ -58,7 +58,7 @@ const Data = () => {
         <h3 className='home__subtitle' >Full Stock Developer</h3>
         <p className='home__description'>I'm Full Stock Developer, and
          I'm very passionate and dedicated to my work.</p>
-         <a download="" href={CV} className="button button--flex">Download CV
+         <a download="" href="https://drive.google.com/file/d/1Fv_r22t25OrNBA8RqJZqDrULIRMVfwJZ/view?usp=sharing" className="button button--flex" target="_blank" rel="noreferrer noopener">Download CV
                 <svg
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"

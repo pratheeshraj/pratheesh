@@ -6,11 +6,11 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "ShareMe",
+    title: "Creative AI",
     category: "web",
-    demo_link:"https://meek-lily-24025a.netlify.app",
-    gitFE:"https://github.com/pratheeshraj/social-media-2-FE.git",
-    gitBE:"https://github.com/pratheeshraj/social-media-new-backend.git"
+    demo_link:"https://tranquil-starlight-cf88b2.netlify.app",
+    gitFE:"https://github.com/pratheeshraj/openai-FE.git",
+    gitBE:"https://github.com/pratheeshraj/openai-BE.git"
 
 
   },
