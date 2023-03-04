@@ -57,7 +57,7 @@ const Data = () => {
         </h1>
         <h3 className='home__subtitle' >Full Stack Developer</h3>
         <p className='home__description'>
-        Hello! I am PRATHEESH, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving.</p>
+        Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.</p>
          <a download="" href="https://drive.google.com/file/d/1Fv_r22t25OrNBA8RqJZqDrULIRMVfwJZ/view?usp=sharing" className="button button--flex" target="_blank" rel="noreferrer noopener">Download CV
                 <svg
                 class="button__icon"
