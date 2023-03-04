@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from "../../../assets/pratheesh-cv.pdf"
+
 const Data = () => {
   return (
     <div className='home__data'>
@@ -56,8 +56,8 @@ const Data = () => {
                 </svg>
         </h1>
         <h3 className='home__subtitle' >Full Stack Developer</h3>
-        <p className='home__description'>I'm Full Stock Developer, and
-         I'm very passionate and dedicated to my work.</p>
+        <p className='home__description'>
+        Hello! I am PRATHEESH, a professional and passionate programmer in my daily life. A quick learner with a self-learning attitude. I love to learn and explore new technologies and am Passionate about Problem Solving.</p>
          <a download="" href="https://drive.google.com/file/d/1Fv_r22t25OrNBA8RqJZqDrULIRMVfwJZ/view?usp=sharing" className="button button--flex" target="_blank" rel="noreferrer noopener">Download CV
                 <svg
                 class="button__icon"
